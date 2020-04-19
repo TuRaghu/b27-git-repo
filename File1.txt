@@ -1,2 +1,4 @@
 1st Line to be added by Command Line
 2nd line added to the Branch of local repo GIT
+3rd Line added 
+4th Line added to branch again for "git diff"
